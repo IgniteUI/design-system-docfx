@@ -65,6 +65,9 @@ Use the Column Chart when you want to show the amount of change over a period of
 Related topic:
 
 - [Line Chart](../line-chart.md)
+- [Spline Chart](spline-chart.md)
+- [Step Line Chart](step-line-chart.md)
+- [Skeleton Charts](../skeleton-charts.md)
   <div class="divider--half"></div>
 
 Our community is active and always welcoming to new ideas.

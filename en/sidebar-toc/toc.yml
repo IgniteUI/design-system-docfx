@@ -89,12 +89,10 @@
   items:
     - name: Colors
       href: ../style/colors.md
-      updated: true
     - name: Elevation
       href: ../style/elevation.md
     - name: Material Icons
       href: ../style/material-icons.md
-      updated: true
     - name: Typography
       href: ../style/typography.md
     - name: Illustrations
@@ -110,10 +108,8 @@
       href: ../components/bottom-nav.md
     - name: Button Group
       href: ../components/button-group.md
-      updated: true
     - name: Button
       href: ../components/button.md
-      updated: true
     - name: Calendar
       href: ../components/calendar.md
     - name: Card
@@ -121,22 +117,20 @@
       items:
         - name: Skeleton Card
           href: ../components/card-skeleton.md
-          new: true
     - name: Carousel
       href: ../components/carousel.md
     - name: Charts
       items:
         - name: Column Chart
           href: ../components/column-chart.md
-          new: true
         - name: Line Chart
           href: ../components/line-chart.md
-          new: true
         - name: Spline Chart
           href: ../components/spline-chart.md
-          new: true
         - name: Step Line Chart
           href: ../components/step-line-chart.md
+        - name: Skeleton Charts
+          href: ../components/skeleton-charts.md
           new: true
     - name: Gauges
       items:
@@ -152,15 +146,8 @@
       href: ../components/chips.md
     - name: Combo
       href: ../components/combo.md
-    - name: Checkbox
-      href: ../components/checkbox.md
-    - name: Chip and Chips Area
-      href: ../components/chips.md
-    - name: Combo
-      href: ../components/combo.md
     - name: Date Picker
       href: ../components/date-picker.md
-      new: true
     - name: Dialog
       href: ../components/dialog.md
     - name: Dropdown
@@ -170,6 +157,7 @@
       items:
         - name: Grid Toolbar
           href: ../components/grid-toolbar.md
+          updated: true
         - name: Grid Export
           href: ../components/grid-export.md
         - name: Grid Group By
@@ -188,6 +176,9 @@
           href: ../components/grid-row-filter.md
         - name: Grid Excel Style Filter
           href: ../components/grid-excel-style-filter.md
+        - name: Grid Advanced Filter
+          href: ../components/grid-advanced-filter.md
+          new: true
         - name: Grid Row Selection
           href: ../components/grid-row-selection.md
         - name: Grid Editing
@@ -200,7 +191,6 @@
           href: ../components/grid-summaries.md
         - name: Skeleton Grid
           href: ../components/grid-skeleton.md
-          new: true
     - name: Hyperlink
       href: ../components/hyperlink.md
     - name: Hierarchical Grid
@@ -208,7 +198,6 @@
       items:
         - name: Skeleton Hierarchical Grid
           href: ../components/hierarchical-grid-skeleton.md
-          new: true
     - name: Icon
       href: ../components/icon.md
     - name: Input
@@ -218,7 +207,6 @@
       items:
         - name: Skeleton List
           href: ../components/list-skeleton.md
-          new: true
         - name: Custom List Item
           href: ../components/list-custom.md
     - name: Navbar
@@ -227,12 +215,10 @@
       href: ../components/nav-drawer.md
     - name: Progress
       href: ../components/progress.md
-      updated: true
     - name: Radio Group
       href: ../components/radio-group.md
     - name: Slider
       href: ../components/slider.md
-      updated: true
     - name: Snackbar
       href: ../components/snackbar.md
     - name: Switch
@@ -241,7 +227,6 @@
       href: ../components/tabs.md
     - name: Time Picker
       href: ../components/time-picker.md
-      new: true
     - name: Toast
       href: ../components/toast.md
     - name: Tooltip
@@ -251,7 +236,6 @@
       items:
         - name: Skeleton Tree Grid
           href: ../components/tree-grid-skeleton.md
-          new: true
 - name: Patterns
   href: ../patterns/patterns-overview.md
   items:
@@ -261,31 +245,24 @@
       href: ../patterns/avatar-badge.md
     - name: Bar
       href: ../patterns/bar.md
-      new: true
     - name: Chat
       href: ../patterns/chat.md
-      new: true
     - name: Checkbox Group
       href: ../patterns/checkbox-group.md
     - name: Data Visualizations
       href: ../patterns/data-visualizations.md
-      updated: true
     - name: Details
       href: ../patterns/details.md
     - name: Dialogs
       href: ../patterns/dialogs.md
-      new: true
     - name: Empty States
       href: ../patterns/empty-states.md
-      new: true
     - name: File Upload
       href: ../patterns/file-upload.md
     - name: Footers
       href: ../patterns/footer.md
-      new: true
     - name: Forms
       href: ../patterns/form.md
-      updated: true
     - name: Grid
       href: ../patterns/grid.md
     - name: Hierarchical Grid
@@ -294,20 +271,16 @@
       href: ../patterns/image-manipulation.md
     - name: Lists
       href: ../patterns/lists.md
-      updated: true
     - name: Menu
       href: ../patterns/menu.md
-      updated: true
     - name: Onboarding
       href: ../patterns/onboarding.md
-      updated: true
     - name: Pricing Table
       href: ../patterns/pricing-plan.md
     - name: Scheduler
       href: ../patterns/scheduler.md
     - name: Social Feed
       href: ../patterns/social-feed.md
-      new: true
     - name: Tiles
       href: ../patterns/tiles.md
     - name: Tree Grid

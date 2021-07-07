@@ -12,12 +12,27 @@ Use the Radio Group Component to allow exclusive selection for one item in a gro
 
 <img class="responsive-img" src="../images/radiogroup_demo.png" srcset="../images/radiogroup_demo@2x.png 2x" />
 
+## Label Position
+
+In Sketch, the Radio Group supports label position variants where the Radio button label is placed after or before the Radio button element. 
+In Adobe XD, we are using stacks to allow you to change the label and radio position at design time, as well as to enable adding as many radio buttons as necessary to align perfectly in the group you want to establish.
+
+<img class="responsive-img" src="../images/radiogroup_enabled_state.png" srcset="../images/radiogroup_enabled_state@2x.png 2x" />          
+<img class="responsive-img" src="../images/radiogroup_labels_before.png" srcset="../images/radiogroup_labels_before@2x.png 2x" />
+
+## Orientation
+
+The Radio Group comes in a Vertical and Horizontal orientation.
+
+<img class="responsive-img" src="../images/radiogroup_enabled_state.png" srcset="../images/radiogroup_enabled_state@2x.png 2x" />          
+<img class="responsive-img" src="../images/radiogroup_horizontal.png" srcset="../images/radiogroup_horizontal@2x.png 2x" />
+
 ## Interaction State
 
 The Radio Group can be inserted in an enabled or disabled state.
 
-<img class="responsive-img" src="../images/radiogroup_enabled-state.png" srcset="../images/radiogroup_enabled-state@2x.png 2x" />
-<img class="responsive-img" src="../images/radiogroup_disabled-state.png" srcset="../images/radiogroup_disabled-state@2x.png 2x" />
+<img class="responsive-img" src="../images/radiogroup_enabled_state.png" srcset="../images/radiogroup_enabled_state@2x.png 2x" />          
+<img class="responsive-img" src="../images/radiogroup_disabled_state.png" srcset="../images/radiogroup_disabled_state@2x.png 2x" /> 
 
 You may also set the state of a radio button in the group to disabled to disallow user interaction with it.
 
@@ -27,25 +42,18 @@ You may also set the state of a radio button in the group to disabled to disallo
 
 The Radio Group can be used styled in **dark** and light variants to assure good readability and contrast for both lighter and darker backgrounds. Make sure that all Radios are set to the same theme.
 
-<img class="responsive-img" src="../images/radiogroup_dark.png" srcset="../images/radiogroup_dark@2x.png 2x" />
+<img class="responsive-img" src="../images/radiogroup_dark.png" srcset="../images/radiogroup_dark@2x.png 2x" />         
 <img class="responsive-img" src="../images/radiogroup_light.png" srcset="../images/radiogroup_light@2x.png 2x" />
-
-## Layout Template
-
-The Radio Group supports a label position where the Radio button label is placed after or before the Radio button element.
-
-<img class="responsive-img" src="../images/radiogroup_after-label.png" srcset="../images/radiogroup_after-label@2x.png 2x" />
-<img class="responsive-img" src="../images/radiogroup_before-label.png" srcset="../images/radiogroup_before-label@2x.png 2x" />
 
 ## State
 
-Each Radio element in the group supports **on** and off selection states.
+Each Radio element in the group supports **on** and off selection states. In Sketch this is achieved with `Symbol Overrides`, while in Adobe XD we are using the `Component States` paradigm to let you easily switch between states. 
 
 <img class="responsive-img" src="../images/radiogroup_demo.png" srcset="../images/radiogroup_demo@2x.png 2x" />
 
 ## Styling
 
-The Radio Group comes with styling flexibility through the various overrides for each item's label style and color.
+The Radio Group comes with styling flexibility for each item's label style and color.
 
 <img class="responsive-img" src="../images/radiogroup_styling.png" srcset="../images/radiogroup_styling@2x.png 2x" />
 

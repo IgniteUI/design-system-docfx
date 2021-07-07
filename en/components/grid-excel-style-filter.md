@@ -39,6 +39,7 @@ Related topics:
 
 - [Grid](grid.md)
 - [Grid Row Filter](grid-row-filter.md)
+- [Grid Advanced Filter](grid-advanced-filter.md)
 - [Grid Display Density](grid-display-density.md)
 - [Grid Sorting](grid-sorting.md)
 - [Grid Column Moving](grid-column-moving.md)
