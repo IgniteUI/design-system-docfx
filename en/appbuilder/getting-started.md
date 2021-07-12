@@ -42,7 +42,7 @@ What you'll see when you launch the [Indigo Design App Builder]({environment:inf
 <img class="responsive-img" src="../images/getting-Started-new-project-dialog-Indigo-Design-App-Builder.png" srcset="../images/getting-Started-new-project-dialog-Indigo-Design-App-Builder-@2x.png 2x" />
 <p style="text-align:center;">New project dialog</p>
 
-Note, that once in the App Builder, users are enabled to easily switch between their active applications from the in-app side menu in design time without leaving the App Builder.
+Note, that once in the App Builder, users are enabled to easily switch between their active applications or go back to their workspace in Indigo.Design from the in-app side menu at design time without leaving the App Builder.
 
 <img class="responsive-img" src="../images/Indigo-Design-side-menu.png" srcset="../images/Indigo-Design-side-menu-@2x.png 2x" />
 <p style="text-align:center;">Side menu</p>

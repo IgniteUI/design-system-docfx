@@ -66,14 +66,23 @@
   #     href: ../appbuilder/spa-and-navigation/master-view-vs-child-views.md
   #   - name: Add navigations (routing)
   #     href: ../appbuilder/spa-and-navigation/add-navigations-routing.md
-- name: Preview Code and Generate App
-  href: ../appbuilder/preview-code-and-generate-app.md
+- name: Preview Code
+  href: ../appbuilder/preview-code.md
   new: true
   # items:
   #   - name: Preview code
   #     href: ../appbuilder/preview-code-and-genrate-app/preview-code.md
   #   - name: Compile and Run the app
   #     href: ../appbuilder/preview-code-and-genrate-app/compile-and-run-the-app.md
+- name: Generate App
+  href: ../appbuilder/generate-app/generate-app-overview.md
+  new: true
+  items:
+    - name: Upload application to Github
+      href: ../appbuilder/generate-app/upload-application-to-github.md
+    - name: Run Application Locally
+      href: ../appbuilder/generate-app/run-application-locally.md
+  
 - name: Change Log
   href: ../appbuilder/change-log.md
   new: true

@@ -6,7 +6,29 @@ _keywords: App Builder, Web App Builder, Design Systems, Design Systems UX, UI k
 # Indigo Design App Builder - Change Log 
 
 > [!NOTE]
-><b>Latest update was made on April 20th, 2020.
+><b>Latest update was made on July 12th, 2021.
+
+## July 12, 2021 Release
+
+### Features
+* **GitHub Integration**: Publish your generated app to a GitHub repository instead of downloading as a ZIP
+* Added “SLIDER” to the component toolbox
+* Added “BANNER” to the component toolbox
+* Added two new sample apps as reference in “Create new app” dialog
+* Added Korean language translation
+
+### Improvements
+* When previewing an app, switch between "master" and "child views" using a dropdown in the toolbar
+* Ability to reorder components in the document outline or design surface using drag & drop
+* Ability to reorder “master” and “child views” in the views tab of the toolbox using drag & drop
+* Updated “Radio” component to “Radio-group”
+* Updated “Tab Layout” to allow custom content inside “Tab header”
+* Improved icons for "align-content" dropdown when wrapping is enabled in Flex layouts
+* Apps are generated using Ignite UI Angular v12.0.1 instead of v11.1.15
+
+### Maintenance updates & bug fixes
+* Improved load times and performance tweaks when using the App Builder UI
+* General bug fixes
 
 ## Official Release
 
